@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/></a>
 
-
 ### 📖Studying📖
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=ffffff"/></a>
@@ -21,8 +20,8 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat&logo=Adobe After Effects&logoColor=ffffff"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=ffffff"/></a>
 
-## Github stats
 
+## Github stats
 방문자수
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
@@ -30,6 +29,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javascriptKR&theme=vue-dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=javascriptKR&bg_color=273849&color=3ca079&line=41b782&point=fefefe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact&theme=vue-dark)
+
 
 ## BackJoon
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=F79B9BFF&lines=티어+승급+ㄱㅈㅇ!)](https://git.io/typing-svg)
