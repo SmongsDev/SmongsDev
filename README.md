@@ -25,11 +25,10 @@
 방문자수
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javascriptKR&theme=blux&date_format=[Y.]n.j)](https://git.io/streak-stats)
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&theme=vue-dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javascriptKR&theme=vue-dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=javascriptKR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact&theme=vue-dark)
 
 <div class="Box anim-hover-grow m-3 p-4">
   <!-- <%= octicon("mark-github", :height => 32) %> -->
