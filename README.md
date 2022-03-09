@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/></a>
 
 
 ### 📖Studying📖
@@ -27,7 +28,7 @@
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="Box anim-hover-grow m-3 p-4">
   <!-- <%= octicon("mark-github", :height => 32) %> -->
