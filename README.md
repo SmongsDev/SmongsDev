@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
 
 ### 📖Studying📖
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff"/></a>
