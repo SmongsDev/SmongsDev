@@ -1,3 +1,5 @@
+<style type="text/css">* {cursor: url(https://cur.cursors-4u.net/others/oth-6/oth543.ani), url(https://cur.cursors-4u.net/others/oth-6/oth543.png), auto !important;}</style>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github!&fontSize=50)
 
 ### 🛠️Tools🛠️
