@@ -41,6 +41,6 @@
 ## Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mollang)](https://velog.io/@sssm0928) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mollang&color=dark)](https://github.com/javascriptKR/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mollang&color=dark)](https://velog.io/@sssm0928)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
