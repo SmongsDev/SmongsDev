@@ -30,7 +30,7 @@
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&theme=vue-dark&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javascriptKR&theme=vue-dark&date_format=[Y.]n.j)
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=javascriptKR&bg_color=273849&color=3ca079&line=41b782&point=fefefe&area=true&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&bg_color=273849&color=3ca079&line=41b782&point=fefefe&area=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact&theme=vue-dark)
 
 
