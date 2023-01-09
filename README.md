@@ -40,7 +40,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssm0928)](https://solved.ac/sssm0928)
 
 ## Velog 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mollang)](https://velog.io/@sssm0928) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/redirect?name=mollang&tag=python&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mollang&color=dark)](https://velog.io/@sssm0928)
 
