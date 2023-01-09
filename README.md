@@ -42,6 +42,6 @@
 ## Velog 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sssm0928)](https://velog.io/@sssm0928) 
 
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github">[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sssm0928&tag=python&color=dark)](https://github.com/sssm0928/velog-readme-stats)</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sssm0928&tag=python&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=sssm0928&tag=python)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
