@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github!&fontSize=50)
-
 ### 🛠️Tools🛠️
 <a><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=ffffff"/></a>
 <a><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=ffffff"/></a>
@@ -38,5 +36,3 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mollang)](https://velog.io/@sssm0928) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sssm0928&tag=python&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=sssm0928&tag=python)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
