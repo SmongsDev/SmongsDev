@@ -28,11 +28,6 @@
 방문자수
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&theme=vue-dark&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javascriptKR&theme=vue-dark&date_format=[Y.]n.j)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javascriptKR&show_icons=true&bg_color=273849&color=3ca079&line=41b782&point=fefefe)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptKR&layout=compact&theme=vue-dark)
-
 
 ## BackJoon
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=F79B9BFF&lines=티어+승급+ㄱㅈㅇ!)
