@@ -29,7 +29,7 @@
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 
-## BackJoon
+## BaeckJoon
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=F79B9BFF&lines=티어+승급+ㄱㅈㅇ!)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssm0928)](https://solved.ac/sssm0928)
