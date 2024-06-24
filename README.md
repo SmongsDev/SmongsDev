@@ -32,7 +32,7 @@
 ## BaekJoon
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=F79B9BFF&lines=티어+승급+ㄱㅈㅇ!)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssm0928)](https://solved.ac/sssm0928)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sssm0928)](https://solved.ac/profile/sssm0928)
 
 ## Velog 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smongs)](https://velog.io/@sssm0928) 
