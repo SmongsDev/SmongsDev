@@ -37,6 +37,9 @@
 />
 </a>
 
+## DreamHack
+<img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=smongs" />
+
 ## BaekJoon
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=F79B9BFF&lines=티어+승급+ㄱㅈㅇ!)
 
