@@ -31,7 +31,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/SmongsDev"
+  src="https://render.gitanimals.org/farms/smongs"
   width="600"
   height="300"
 />
