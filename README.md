@@ -11,9 +11,8 @@
 ```
 
 <a href="https://github.com/SmongsDev">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SmongsDev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
+  <img src="https://hitscounter.dev/api/hit?url=https://github.com/SmongsDev&label=GitHub&icon=github&color=%23000000"/>
 </a>
-
 </div>
 
 ---
@@ -145,11 +144,9 @@
 ## 🐾 Farm
 
 <div align="center">
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/SmongsDev" width="600" height="300"/>
+  <img src="https://render.gitanimals.org/farms/SmongsDev"/>
 </a>
-
 </div>
 
 ---
