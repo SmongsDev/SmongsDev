@@ -1,15 +1,7 @@
 <!-- Header -->
+![header](https://github.com/user-attachments/assets/0da6021b-eb0a-410b-a3d6-8b76afe0c8e6)
+
 <div align="center">
-
-```
-███████╗███╗   ███╗ ██████╗ ███╗   ██╗ ██████╗ ███████╗
-██╔════╝████╗ ████║██╔═══██╗████╗  ██║██╔════╝ ██╔════╝
-███████╗██╔████╔██║██║   ██║██╔██╗ ██║██║  ███╗███████╗
-╚════██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║   ██║╚════██║
-███████║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║╚██████╔╝███████║
-╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
-```
-
 <a href="https://github.com/SmongsDev">
   <img src="https://hitscounter.dev/api/hit?url=https://github.com/SmongsDev&label=GitHub&icon=github&color=%23000000"/>
 </a>
