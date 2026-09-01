@@ -99,7 +99,7 @@
 
 <div align="center">
 
-![seondal's GitHub stats](https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![SmongsDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmongsDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
